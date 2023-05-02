@@ -1,4 +1,4 @@
-# Social-Distancing-Detector using pre-trained YOLOv4 model !
+# Social Distancing Checker using DL using pre-trained YOLOv4 model !
 COVID-19 social distancing detector using OpenCV, Deep Learning, and Computer Vision. OpenCV and deep learning can be used to implement a social distancing detector. Our configuration file used to keep our implementation neat and tidy. Our detect_people utility function, which detects people in video streams using the YOLO object detection. Our Python driver script, which glues all the pieces together into a full-fledged OpenCV social distancing detector. Apply object detection to detect all people (and only people) in a video stream (see this tutorial on building an OpenCV people counter). Compute the pairwise distances between all detected people. Based on these distances, check to see if any two people are less than N pixels apart.
 
 Detect the social distance violations in real time using OpenCV and deep learning
