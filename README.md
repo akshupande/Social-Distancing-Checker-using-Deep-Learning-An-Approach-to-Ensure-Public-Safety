@@ -1,5 +1,5 @@
 # Social Distancing Checker using DL using pre-trained YOLOv4 model !
-Developed an Artificial Intelligence powered tool using YOLO object detection model, DeepSORT tracking algorithm, and Kalman filter help to calculate their distances, triggering alerts (bounding box) who violates COVID 6 feet distance.
+Developed an Artificial Intelligence powered tool using YOLO object detection model, DeepSORT tracking algorithm, triggering alerts (red bounding box) who violates COVID 50 pixels distance calculated via individual bounding box centroid.
 
 Detect the social distance violations!
 
